@@ -36,4 +36,4 @@ Danny made a helpful [cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d
 Prompt a user for the pyramids' heights, a non-negative integer no greater than 23 (this is the highest that a pyramid can go in Mario land).
 
 
-* The inspiration for this lab comes from one of the labs in Harvard's CS50 class (intro to Computer Science)
+*Inspiration for this lab comes from one of the labs in Harvard's CS50 class (intro to Computer Science)
