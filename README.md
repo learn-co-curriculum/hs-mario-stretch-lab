@@ -28,9 +28,9 @@ Now break up your team in half. Half of you will work on creating the left side 
 
 Everyone should write their code in the `pyramid.rb` file, but each team should create their own git branch to work off of. To share your code you'll need to push up your branch to the shared repository (the one you forked from). Then nominate someone on the team to pull down the code and work together as a complete team to combine (you may want to do some refactoring). 
 
-Use the `git fetch` command to pull down the code from Github. You'll also need to use `git merge` to merge each branch into the master branch and combine your changes. 
+Use the `git pull` command to pull down the code from Github. You'll also need to use `git merge` to merge each branch into the master branch and combine your changes. 
 
-Danny made a helpful [cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) if you need some help remembering the commands. 
+Danny made a [cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) if you need some help remembering the commands. 
 
 ###BONUS
 Add a new feature to your program that asks a user how tall they would like to make the pyramid.This should be a non-negative integer no greater than 23 (this is the tallest that a pyramid can go in Mario land).
