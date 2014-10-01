@@ -13,10 +13,12 @@ Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario mu
 
 Your mission is to recreate these blocks using Ruby. It will look a little something like this:
 
+```
    #  #
   ##  ##
  ###  ###
 ####  ####
+```
 
 The height of the half-pyramids pictured above happens to be 4, the width of each half-pyramid 4, with a gap of size 2 separating them.) 
 
