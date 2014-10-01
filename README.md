@@ -33,7 +33,7 @@ Use the `git fetch` command to pull down the code from Github. You'll also need 
 Danny made a helpful [cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) if you need some help remembering the commands. 
 
 ###BONUS
-Prompt a user for the pyramids' heights, a non-negative integer no greater than 23 (this is the highest that a pyramid can go in Mario land).
+Add a new feature to your program that asks a user how tall they would like to make the pyramid.This should be a non-negative integer no greater than 23 (this is the tallest that a pyramid can go in Mario land).
 
 
 *Inspiration for this lab comes from one of the labs in Harvard's CS50 class (intro to Computer Science)
