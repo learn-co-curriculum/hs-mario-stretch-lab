@@ -7,6 +7,8 @@ type: stretch
 
 ##Itsa Mario*
 
+***This is a group lab, so make sure you are working in a group of 3-4 students***
+
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over two "half-pyramids" of blocks as he heads toward a flag pole. Below is a screenshot.
 
 ![mario](http://prog1.mprog.nl/course/20%20Problem%20sets/10%201%20-%20Mario/pset13.png)
@@ -20,11 +22,11 @@ Your mission is to recreate these blocks using Ruby. It will look a little somet
 ####  ####
 ```
 
-The height of the half-pyramids pictured above happens to be 4, the width of each half-pyramid 4, with a gap of size 2 separating them.) 
+(The height and the width of the half-pyramids pictured above are 4 with a gap of size 2 separating them.) 
 
 To make things a little more interesting, and give you some practice using git and github, you'll be working in a group of 3-4 students. 
 
-Chose one representative from your group to fork the lab. Everyone in your group should clone from that fork. You'll be combining all of your code at the end and submitting a group pull request from this fork. 
+Chose one representative from your group to fork this lab. Everyone in your group should clone from that fork. You'll be combining all of your code at the end and submitting a group pull request from this fork. 
 
 Now break up your team in half. Half of you will work on creating the left side of the pyramid and half of you will work on creating the right side of the pyramid. 
 
