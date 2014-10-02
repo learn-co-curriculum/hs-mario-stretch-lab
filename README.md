@@ -7,7 +7,7 @@ type: stretch
 
 ##Itsa Mario*
 
-***This is a group lab, so make sure you are working in a group of 3-4 students***
+***This is a group lab, so make sure you are working in a group of 2-4 students***
 
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over two "half-pyramids" of blocks as he heads toward a flag pole. Below is a screenshot.
 
