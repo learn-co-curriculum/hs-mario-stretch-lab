@@ -30,7 +30,7 @@ Chose one representative from your group to fork this lab. Everyone in your grou
 
 Now break up your team in half. Half of you will work on creating the left side of the pyramid and half of you will work on creating the right side of the pyramid. 
 
-Everyone should write their code in the `pyramid.rb` file, but each team should create their own git branch to work off of. To share your code you'll need to push up your branch to the shared repository (the one you forked from). Then nominate someone on the team to pull down the code and work together as a team to combine the code for left and right sides (you may want to do some refactoring). 
+Everyone should write their code in the `pyramid.rb` file, but each team should create their own git branch to work off of. To share your code you'll need to push up your branch to the shared repository (the one you forked from). Then nominate someone on the team to pull down the code and work together as a team to combine the code for left and right sides. You may want to do some refactoring and you will probably have [merge conflicts](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) that you will need to resolve. 
 
 Use the `git pull` command to pull down the code from Github. You'll also need to use `git merge` to merge each branch into the master branch and combine your changes. 
 
