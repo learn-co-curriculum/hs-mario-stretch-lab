@@ -29,7 +29,7 @@ Create a program that will print the following pyramid:
 
 ### Part II: User Specified Height
 
-Add a new feature to your program that asks a user how tall they would like to make the pyramid.This should be a non-negative integer no greater than 23 (this is the tallest that a pyramid can be in Mario land).
+Add a new feature to your program that asks a user how tall they would like to make the pyramid. This should be a non-negative integer no greater than 23 (this is the tallest that a pyramid can be in Mario land).
 
 ### Part III: Chained pyramids
 
@@ -68,10 +68,10 @@ Modify your code to make every other pyramid inverted. Example:
 ### Part V: Rainbow Magic
 Find a ruby gem that allows you to give your pyramids color. Print out a pyramid that covers the colors of the rainbow.
 
-*Inspiration for this lab comes from one of the labs in Harvard's CS50 class (intro to Computer Science)
+*Inspiration for this lab comes from one of the labs in Harvard's CS50 class (Intro to Computer Science)
 
 ### Optional Practice with Git!
-To make things a little more interesting, and give you some practice using git and github, you'll be working in a group of 3-4 students. 
+To make things a little more interesting, and give you some practice using Git and Github, you'll be working in a group of 3-4 students. 
 
 Chose one representative from your group to fork this lab. Everyone in your group should clone from that fork. You'll be combining all of your code at the end and submitting a group pull request from this fork. 
 
