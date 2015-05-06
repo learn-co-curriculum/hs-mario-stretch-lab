@@ -1,10 +1,3 @@
----
-tags: kids, stretch, git, ruby
-language: ruby
-level: 3
-type: stretch
----
-
 ##Itsa Mario*
 
 ***This is a group lab, so make sure you are working in a group of 2-4 students***
