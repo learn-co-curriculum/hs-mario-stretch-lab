@@ -1,6 +1,6 @@
 #write your code here
-# Part 1:
 require 'rainbow'
+# Part 1:
 
 puts "   #  # "
 puts "  ##  ##"
@@ -115,4 +115,3 @@ pyramids.times do
   reverser += 1
 
 end
-
