@@ -66,7 +66,7 @@ Find a ruby gem that allows you to give your pyramids color. Print out a pyramid
 ### Optional Practice with Git!
 To make things a little more interesting, and give you some practice using Git and Github, you'll be working in a group of 3-4 students. 
 
-Chose one representative from your group to fork this lab. Everyone in your group should clone from that fork. You'll be combining all of your code at the end and submitting a group pull request from this fork. 
+Choose one representative from your group to fork this lab. Everyone in your group should clone from that fork. You'll be combining all of your code at the end and submitting a group pull request from this fork. 
 
 Now break up your team in half. Half of you will work on creating the left side of the pyramid and half of you will work on creating the right side of the pyramid. 
 
