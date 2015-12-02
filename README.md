@@ -76,3 +76,5 @@ Use the `git pull` command to pull down the code from Github. You'll also need t
 
 Danny made a [cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) if you need some help remembering how to use git commands. 
 
+
+<a href='https://learn.co/lessons/hs-mario-stretch-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
