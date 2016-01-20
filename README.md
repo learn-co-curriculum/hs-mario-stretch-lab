@@ -4,7 +4,7 @@
 
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over two "half-pyramids" of blocks as he heads toward a flag pole. Below is a screenshot.
 
-![mario](http://prog1.mprog.nl/course/20%20Problem%20sets/10%201%20-%20Mario/pset13.png)
+![mario](http://www.infendo.com/wp-content/uploads/2008/06/mario.png)
 
 Your mission is to recreate these blocks using Ruby. 
 
