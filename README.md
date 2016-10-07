@@ -6,7 +6,7 @@ Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario mu
 
 Your mission is to recreate these blocks using Ruby. 
 
-NOTE: there are no `rspec` tests.
+NOTE: there are no `rspec` tests for this lab.
 
 ### Part I: The Boring Pyramid
 Open `pyramid.rb` and write a method (name it whatever you want) that will print the following pyramid:
