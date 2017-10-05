@@ -12,13 +12,14 @@ NOTE: there are no `rspec` tests for this lab.
 Open `pyramid.rb` and write a method (name it whatever you want) that will print the following pyramid:
 
 ```
-   #  #
-  ##  ##
- ###  ###
-####  ####
+    #  #
+   ##  ##
+  ###  ###
+ ####  ####
+#####  #####
 ```
 
-(The height and the width of the half-pyramids pictured above are 4 with a gap of size 2 separating them.) 
+(The height and the width of the half-pyramids pictured above are 5 with a gap of size 2 separating them.) 
 
 You will obviously want to call your method later in your code, and run the file using `ruby pyramid.rb` to make sure it worked.
 
@@ -45,8 +46,8 @@ Make a third method that will prompt the user for both the height of the pyramid
  ###  ###
 ####  ####
 ```
-### Part IV: Every-Other-Upside-Down Pyramid
-Make a fourth method that will do the same as your third method but make every other pyramid inverted. Example:
+### Part IV: Every-Other-Upside-Down Pyramid (BONUS)
+If you've made it this far, consider yourself a Mario Pro.  But as an extra challenge, make a fourth method that will do the same as your third method but make every other pyramid inverted. Example:
 ```
    #  #
   ##  ##
@@ -61,7 +62,5 @@ Make a fourth method that will do the same as your third method but make every o
  ###  ###
 ####  ####
 ```
-
-When you finish, remember to `add`/`commit`/`push` and create a pull request to submit this lab.
 
 *Inspiration for this lab comes from one of the labs in Harvard's CS50 class (Intro to Computer Science)
